@@ -1,0 +1,6 @@
+spring:
+  freemarker:
+    template-loader-path: classpath:/templates/
+  mvc:
+    view:
+      suffix: .ftl
